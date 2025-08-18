@@ -20,8 +20,8 @@ Summary of what these codes where used for:
   
   Classification analysis (all of this was done for logistic regression, random forest and XGBoost):
   
-    Model with optimised hyperparameters
+  Model with optimised hyperparameters
     
-    Model removing feature groups one at a time
+  Model removing feature groups one at a time
     
-    Leave-One-Feature-Out (LOFO) analysis
+  Leave-One-Feature-Out (LOFO) analysis
